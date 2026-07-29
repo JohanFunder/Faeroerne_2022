@@ -1,0 +1,4 @@
+georinex
+numpy
+xarray
+jupyter
